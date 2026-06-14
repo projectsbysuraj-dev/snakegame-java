@@ -9,6 +9,7 @@ A simple Snake Game built using Java and Swing.
 - Food generation
 - Score tracking
 - Game Over screen
+- Restart button ✅ 
 
 ## Technologies Used
 - Java
